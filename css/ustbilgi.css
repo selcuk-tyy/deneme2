@@ -1,0 +1,40 @@
+@charset "utf-8";
+.ustbilgicontainer{
+    height: 70px;
+    width:100%;
+    background-color:blue;
+}
+.ustbilgi{
+    background-color: brown;
+    width: 33%;
+    height: 100%;
+    float: left;
+}
+.urun{
+    width: 33%;
+    margin-top: 15px;
+    float: left;
+    background-color: aqua;
+}
+.urun:hover{
+
+}
+.sablon{
+    width: 33%;
+    margin-top: 15px;
+    float: left;
+    background-color:blueviolet;
+}
+.kaynak{
+    width: 33%;
+    margin-top: 15px;
+    float: left;
+    background-color: brown;
+}
+.kaynak:hover{
+
+}
+h1{
+    text-align: center;
+    font-size: 15px;
+}
