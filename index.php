@@ -1,4 +1,0 @@
-merabalar 
-wlekfnlkwfn
-lkwejflş
-kkljfmşc
