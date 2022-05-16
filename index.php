@@ -7,14 +7,24 @@
     <title>Document</title>
     <link href="css/ustbilgi.css" rel="stylesheet" type="text/css"/>
     <link href="css/container.css" rel="stylesheet" type="text/css"/>
+    <link href="css/link.css" rel="stylesheet" type="text/css"/>
 </head>
 <body>
     <div class="ustbilgicontainer"> 
         <div class="ustbilgi" ><img style="margin-left:30px;" src="resim/st.png"></div>
-        <div class="ustbilgi" style="background-color: blue;">
-                <div class="urun";><h1 >ÜRÜN:%S</h1></div>
-                <div class="sablon";><h1 >ŞABLONLAR</h1> </div>
-                <div class="kaynak";><h1 >KAYNAKLAR</h1> </div>
+        <div class="ustbilgi">
+                <div class="menu"; style="backgroud-color=brown">
+                    <ul>
+                        <li><a href="#">ÜRÜN:%S</a>
+                            <ul>
+                                <li><a href="#">altbilgi</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="#">ŞABLONLAR</a></li>
+                        <li><a href="#">KAYNAKLAR</a></li>
+                    </ul>
+                </div>
+
             </div>
         <div class="ustbilgi"></div>
     </div>

@@ -1,0 +1,17 @@
+@charset "utf-8";
+.menu{
+    margin-top: 20px;
+}
+.menu ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+.menu li{
+    background-color:aquamarine;
+    width: 33%;
+    float: left;
+}
+.menu li li{
+    margin-top: 20px;
+}

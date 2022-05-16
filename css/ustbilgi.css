@@ -2,10 +2,9 @@
 .ustbilgicontainer{
     height: 70px;
     width:100%;
-    background-color:blue;
 }
 .ustbilgi{
-    background-color: brown;
+    background-color:gray;
     width: 33%;
     height: 100%;
     float: left;
@@ -14,7 +13,6 @@
     width: 33%;
     margin-top: 15px;
     float: left;
-    background-color: aqua;
 }
 .urun:hover{
 
@@ -23,13 +21,13 @@
     width: 33%;
     margin-top: 15px;
     float: left;
-    background-color:blueviolet;
+   
 }
 .kaynak{
     width: 33%;
     margin-top: 15px;
     float: left;
-    background-color: brown;
+    
 }
 .kaynak:hover{
 
