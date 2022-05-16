@@ -10,24 +10,32 @@
     <link href="css/link.css" rel="stylesheet" type="text/css"/>
 </head>
 <body>
-    <div class="ustbilgicontainer"> 
-        <div class="ustbilgi" ><img style="margin-left:30px;" src="resim/st.png"></div>
-        <div class="ustbilgi">
-                <div class="menu"; style="backgroud-color=brown">
-                    <ul>
-                        <li><a href="#">ÜRÜN:%S</a>
-                            <ul>
-                                <li><a href="#">altbilgi</a></li>
-                            </ul>
-                        </li>
-                        <li><a href="#">ŞABLONLAR</a></li>
-                        <li><a href="#">KAYNAKLAR</a></li>
-                    </ul>
-                </div>
+    <!--üst bilgi kısmı-->
+    <div class="ustbilgicontainer">
+        
+        <!--logo kısmı--> 
+        <div class="logo" ><img style="margin-left:30px;" src="resim/st.png"></div>
 
+            <!--menü kısmı-->
+            <div class="menu";>
+                 <ul>
+                    <li><a href="#">ÜRÜN:%S</a>
+                        <ul>
+                            <li><a href="#">altbilgi</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="#">ŞABLONLAR</a></li>
+                    <li><a href="#">KAYNAKLAR</a></li>
+                </ul>
             </div>
-        <div class="ustbilgi"></div>
+
+            <!--giriş ve başlat kısmı-->
+        <div class="giris"></div>
     </div>
+
+    <div class="deneme"></div>
+    <div class="deneme"></div>
+    <div class="deneme"></div>
     
 </body>
 </html>
