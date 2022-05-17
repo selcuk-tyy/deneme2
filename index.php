@@ -17,16 +17,18 @@
         <div class="logo" ><img style="margin-left:30px;" src="resim/st.png"></div>
 
             <!--menü kısmı-->
-            <div class="menu";>
-                 <ul>
-                    <li><a href="#">ÜRÜN:%S</a>
-                        <ul>
-                            <li><a href="#">altbilgi</a></li>
-                        </ul>
-                    </li>
-                    <li><a href="#">ŞABLONLAR</a></li>
-                    <li><a href="#">KAYNAKLAR</a></li>
-                </ul>
+            <div class="anamenu";>
+                <div class="menu";>
+                    <ul>
+                        <li><a href="#">PRODUCTS</a>
+                            <ul>
+                                <li><a href="#">altbilgi</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="#">TEMPLATES</a></li>
+                        <li><a href="#">RESOURCES</a></li>
+                    </ul>
+                </div>
             </div>
 
             <!--giriş ve başlat kısmı-->
