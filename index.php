@@ -16,8 +16,8 @@
         <!--logo kısmı--> 
         <div class="logo" ><img style="margin-left:30px;" src="resim/st.png"></div>
 
-            <!--menü kısmı-->
-            <div class="anamenu";>
+        <!--menü kısmı-->
+        <div class="anamenu";>
                 <div class="menu";>
                     <ul>
                         <li><a href="#">PRODUCTS</a>
@@ -29,10 +29,13 @@
                         <li><a href="#">RESOURCES</a></li>
                     </ul>
                 </div>
-            </div>
+        </div>
 
-            <!--giriş ve başlat kısmı-->
-        <div class="giris"></div>
+        <!--giriş ve başlat kısmı-->
+        <div class="giris">
+            <div class="girisgetstarted"><a href="#">GET STARTED</a>           </div>
+            <div class="girislogin"><a href="#" href="text-align:center">LOG IN</a>            </div>
+        </div>
     </div>
 
     <div class="deneme"></div>
