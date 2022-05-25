@@ -19,15 +19,48 @@
         <!--menü kısmı-->
         <div class="anamenu";>
                 <div class="menu";>
-                    <ul>
-                        <li><a href="#">PRODUCTS</a>
-                            <ul>
-                                <li><a href="#">altbilgi</a></li>
-                            </ul>
-                        </li>
-                        <li><a href="#">TEMPLATES</a></li>
-                        <li><a href="#">RESOURCES</a></li>
-                    </ul>
+                    <div class="menulink1";><ul>
+                                                <li><a href="#">PRODUCTS</a>
+                                                    <ul>
+                                                        <h1><ul>
+                                                            <li><a>meraba</a></li>
+                                                            <li><a href="#" style="color:black";>meraba</a></li>
+                                                            <li><a href="#">meraba</a></li>
+                                                            <li><a href="#">meraba</a></li>
+                                                            <li><a href="#">meraba</a></li>
+                                                            <li><a href="#">meraba</a></li>
+                                                        </ul></h1>
+                                                        <h2><ul>
+                                                            <li><a>meraba</a></li>
+                                                            <li><a href="#" style="color:yellow";>meraba</a></li>
+                                                            <li><a href="#">meraba</a></li>
+                                                            <li><a href="#">meraba</a></li>
+                                                            <li><a href="#">meraba</a></li>
+                                                            <li><a href="#">meraba</a></li>
+                                                        </ul></h2>
+                                                        <h3><ul>
+                                                            <li><a>meraba</a></li>
+                                                            <li><a href="#" style="color:grean";>meraba</a></li>
+                                                            <li><a href="#">meraba</a></li>
+                                                            <li><a href="#">meraba</a></li>
+                                                            <li><a href="#">meraba</a></li>
+                                                            <li><a href="#">meraba</a></li>
+                                                        </ul></h3>
+                                                    </ul>
+                                                </li>
+                                            </ul>
+                    </div>
+                    <div class="menulink2";><ul>
+                                                <li><a href="#">TEMPLATES</a>
+                                                    <li>
+                                            </ul>
+                    </div>
+                    <div class="menulink3";><ul>
+                                                <li><a href="#">RESOURCES</a>
+                                                    <ul><li><a href="">meraba</a></li></ul></li>
+                                            </ul>
+                    </div>
+                
                 </div>
         </div>
 
