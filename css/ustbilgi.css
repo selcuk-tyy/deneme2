@@ -6,6 +6,7 @@
     height: 80px;
     /*height:50pc;*/
     width:100%;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 /*logo kısmı*/
@@ -45,18 +46,38 @@
 .menu ul ul{
     display: none;
     width: 100%;
-    background-color: #73302a;
+    background-color: #dd5353;
     position: absolute;
     left:0px;
     height:500px;
+    z-index: -1;
 }
 
 .menu ul:hover ul{
     display: block;
+    z-index: -1;
 }
+
 .menulink1 ul ul ul{
-    margin-top: 100px;
+    margin-top: 80px;
+    font-size: 18px;
 }
+.menulink1 deneme1 ul{
+    margin-left:0px;
+}
+.menulink1 deneme2 ul{
+    margin-left: 23%;
+}
+.menulink1 deneme3 ul{
+    margin-left: 46%;
+}
+.menulink1 deneme4 ul{
+    margin-left: 69%;
+}
+.menulink1 ul ul li{
+    margin-top: 14px;
+}
+
 
 
 /*giriş kısmı*/

@@ -22,37 +22,49 @@
                     <div class="menulink1";><ul>
                                                 <li><a href="#">PRODUCTS</a>
                                                     <ul>
-                                                        <h1><ul>
-                                                            <li><a>meraba</a></li>
-                                                            <li><a href="#" style="color:black";>meraba</a></li>
-                                                            <li><a href="#">meraba</a></li>
-                                                            <li><a href="#">meraba</a></li>
-                                                            <li><a href="#">meraba</a></li>
-                                                            <li><a href="#">meraba</a></li>
-                                                        </ul></h1>
-                                                        <h2><ul>
-                                                            <li><a>meraba</a></li>
-                                                            <li><a href="#" style="color:yellow";>meraba</a></li>
-                                                            <li><a href="#">meraba</a></li>
-                                                            <li><a href="#">meraba</a></li>
-                                                            <li><a href="#">meraba</a></li>
-                                                            <li><a href="#">meraba</a></li>
-                                                        </ul></h2>
-                                                        <h3><ul>
-                                                            <li><a>meraba</a></li>
-                                                            <li><a href="#" style="color:grean";>meraba</a></li>
-                                                            <li><a href="#">meraba</a></li>
-                                                            <li><a href="#">meraba</a></li>
-                                                            <li><a href="#">meraba</a></li>
-                                                            <li><a href="#">meraba</a></li>
-                                                        </ul></h3>
+                                                        <deneme1><ul>
+                                                            <li><a style="color:#757070";>CREATE A WEBSİTE</a></li>
+                                                            <li><a href="#">Averview</a></li>
+                                                            <li><a href="#">Award-Winning Templates</a></li>
+                                                            <li><a href="#">Blogging</a></li>
+                                                            <li><a href="#">Portfolios</a></li>
+                                                            <li><a href="#">Website Analytics</a></li>
+                                                            <li><a href="#">Connected Services</a></li>
+                                                            <li><a href="#">Hire an Expert</a></li>
+                                                            <li><a href="#">Enterprise Solutions</a></li>
+                                                        </ul></deneme1>
+                                                        <deneme2><ul>
+                                                            <li><a style="color:#757070";>SELL ANYTHING</a></li>
+                                                            <li><a href="#">Overview</a></li>
+                                                            <li><a href="#">Ecommerce Templates</a></li>
+                                                            <li><a href="#">Sell Products</a></li>
+                                                            <li><a href="#">Sell Services</a></li>
+                                                            <li><a href="#">Schedule Appointments</a></li>
+                                                            <li><a href="#">Store Management</a></li>
+                                                            <li><a href="#">Member Areas</a></li>
+                                                            <li><a href="#">Extensions</a></li>
+                                                            <li><a href="#">Restaurants & Hospitality</a></li>
+                                                        </ul></deneme2>
+                                                        <deneme3><ul>
+                                                            <li><a style="color:#757070";>BUILD YOUR BRAND</a></li>
+                                                            <li><a href="#">Overview</a></li>
+                                                            <li><a href="#">Link in Bio Sites</a></li>
+                                                            <li><a href="#">Email Marketing</a></li>
+                                                            <li><a href="#">SEO Tools</a></li>
+                                                            <li><a href="#">Social Media Tools</a></li>
+                                                            <li><a href="#">Video Maker</a></li>
+                                                        </ul></deneme3>
+                                                        <deneme4><ul>
+                                                            <li><a style="color:#757070";>GET A DOMAIN</a></li>
+                                                            <li><a href="#">Find a Domain</a></li>
+                                                            <li><a href="#">Transfer a Domain</a></li>
+                                                        </ul></deneme4>
                                                     </ul>
                                                 </li>
                                             </ul>
                     </div>
                     <div class="menulink2";><ul>
-                                                <li><a href="#">TEMPLATES</a>
-                                                    <li>
+                                                <li><a href="#">TEMPLATES</a> <li>
                                             </ul>
                     </div>
                     <div class="menulink3";><ul>
