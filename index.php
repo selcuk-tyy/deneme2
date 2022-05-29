@@ -14,7 +14,7 @@
     <div class="ustbilgicontainer">
         
         <!--logo kısmı--> 
-        <div class="logo" ><img style="margin-left:30px;" src="resim/st.png"></div>
+        <div class="logo" ><img style="margin-left:30px;" src="resim/STY.png"></div>
 
         <!--menü kısmı-->
         <div class="anamenu";>
