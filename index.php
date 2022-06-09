@@ -69,7 +69,19 @@
                     </div>
                     <div class="menulink3";><ul>
                                                 <li><a href="#">RESOURCES</a>
-                                                    <ul><li><a href="">meraba</a></li></ul></li>
+                                                    <ul>
+                                                        <ul>
+                                                            <li><a href="#">Made with Squarespace </a></li>
+                                                                <ul><li><a href="" >Made with Squarespace </a></li></ul>
+                                                            <li><a href="#">Squarespace Blog</a></li>
+                                                            <li><a href="#">Help Center </a></li>
+                                                            <li><a href="#">Forum </a></li>
+                                                            <li><a href="#">Webinars </a></li>
+                                                            <li><a href="#">For Professionals </a></li>
+                                                        </ul>
+                                                    </ul>
+                                                </li>
+                                                    
                                             </ul>
                     </div>
                 

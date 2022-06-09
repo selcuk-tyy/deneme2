@@ -45,28 +45,31 @@
 .menu li{
     list-style: none;
 }
-.menu ul ul{
-    display: none;
+.menu ul ul{ 
     width: 100%;
     background-color: #000000;
     position: absolute;
     left:0px;
-    top: 0px;
-    height:490px;
-
+    
+    height: 490px;              /*@ buradaki amaç yukarıdan aşağıya kayar menü yapımı*/
+    top: -600px;
+    transition: 500ms all;
+    visibility: hidden;         /*@*/
+}
+.menu ul ul ul{
+    margin-top: 100px;
 }
 .menu ul li a{
     position: relative;
     z-index: 1;
 }
-
-.menu ul:hover ul{
-    display: block;
+.menu ul :hover ul{
+    top: 0px;                   /*@ kayar menünüm diğer ayarları*/
+    visibility: visible;        /*@*/   
 }
 
 
 .menulink1 ul ul ul{
-    margin-top: 100px;
     font-size: 18px;
 }
 .menulink1 deneme1 ul{
@@ -84,6 +87,11 @@
 .menulink1 ul ul li{
     margin-top: 14px;
 }
+.menulink3 ul ul ul{
+    font-size: 30px;
+}
+
+
 
 
 
